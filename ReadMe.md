@@ -1,4 +1,6 @@
 
 
-https://github.com/shivang17d/Throttle-in-JS/assets/86548591/1796d101-631a-4420-bed4-af2d251e8181
+
+
+https://github.com/shivang17d/Throttle-in-JS/assets/86548591/8e0719cf-a1ce-4700-a594-cc7bddf5308a
 
